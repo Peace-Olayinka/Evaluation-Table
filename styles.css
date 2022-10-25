@@ -1,0 +1,21 @@
+#disp{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+table{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    column-gap:15px ;
+    row-gap:40px ;
+    justify-content: center;   
+}
+
+tr{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;  
+}
